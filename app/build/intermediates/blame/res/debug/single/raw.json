@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\cocos2d-android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\effect.mp3",
+        "source": "D:\\cocos2d-android\\app\\src\\main\\res\\raw\\effect.mp3"
+    },
+    {
+        "merged": "D:\\cocos2d-android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\backsound.mp3",
+        "source": "D:\\cocos2d-android\\app\\src\\main\\res\\raw\\backsound.mp3"
+    }
+]

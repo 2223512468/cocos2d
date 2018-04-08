@@ -1,0 +1,50 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .gitignore
+* AUTHORS
+* LICENSE
+* README.0.82
+* build.properties
+* build.xml
+* cocos2d-android\
+* cocos2d-android\locks\
+* cocos2d-android\locks\db.lock
+* default.properties
+* pom.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi\libgdx.so => app\src\main\jniLibs\armeabi\libgdx.so
+* libs\cocos2d-android.jar => app\libs\cocos2d-android.jar
+* libs\x86\libgdx.so => app\src\main\jniLibs\x86\libgdx.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\org\cocos2d\tests\test.lst => app\src\main\resources\org\cocos2d\tests\test.lst
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

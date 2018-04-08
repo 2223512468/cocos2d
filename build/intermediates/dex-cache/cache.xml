@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\cocos2d-android\app\libs\cocos2d-android.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="9f6c9f5ae05ee941b074037d1f64fa75fd7b3690">
+        <dex dex="D:\cocos2d-android\app\build\intermediates\pre-dexed\debug\cocos2d-android_6fc265e5cded78707e15fdb3059474225417eee0.jar" />
+    </item>
+
+</items>

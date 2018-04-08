@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\cocos2d-android\app\src\main\jniLibs"><file name="armeabi/libgdx.so" path="D:\cocos2d-android\app\src\main\jniLibs\armeabi\libgdx.so"/><file name="x86/libgdx.so" path="D:\cocos2d-android\app\src\main\jniLibs\x86\libgdx.so"/></source></dataSet><dataSet config="debug"><source path="D:\cocos2d-android\app\src\debug\jniLibs"/></dataSet></merger>

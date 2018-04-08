@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:2:1-243:12
+	xmlns:android
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:3:11-32
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:6:5-240:19
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:6:18-50
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:6:81-106
+	android:icon
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:6:51-80
+activity#org.cocos2d.Cocos2D
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:7:9-13:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:7:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:11:27-74
+activity#org.cocos2d.tests.ActionManagerTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:24:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:26:19-69
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:23:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:22:19-58
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:25:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.TEST
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:27:13-30:29
+category#android.intent.category.TEST
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:29:17-72
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:29:27-70
+activity#org.cocos2d.tests.ActionsTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:34:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:37:19-63
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:35:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:33:19-52
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:36:19-54
+activity#org.cocos2d.tests.AtlasTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:45:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:48:19-61
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:46:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:44:19-50
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:47:19-54
+activity#org.cocos2d.tests.Box2dTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:55:9-64:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:56:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:59:19-61
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:57:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:55:19-50
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:58:19-54
+activity#org.cocos2d.tests.ClickAndMoveTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:66:9-75:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:68:19-55
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:70:19-68
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:67:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:66:19-57
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:69:19-54
+activity#org.cocos2d.tests.CocosNodeTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:77:9-86:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:79:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:81:19-65
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:78:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:77:19-54
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:80:19-54
+activity#org.cocos2d.tests.DrawPrimitivesTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:91:19-70
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:89:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:88:19-59
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:90:19-54
+activity#org.cocos2d.tests.EaseActionsTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:98:9-106:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:101:19-67
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:99:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:98:19-56
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:100:19-54
+activity#org.cocos2d.tests.EffectsAdvancedTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:108:9-116:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:111:19-71
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:109:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:108:19-60
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:110:19-54
+activity#org.cocos2d.tests.EffectsTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:118:9-126:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:121:19-63
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:119:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:118:19-52
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:120:19-54
+activity#org.cocos2d.tests.MenuTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:128:9-136:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:131:19-60
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:129:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:128:19-49
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:130:19-54
+activity#org.cocos2d.tests.ParticleTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:138:9-147:20
+	android:screenOrientation
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:139:19-56
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:142:19-63
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:140:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:138:19-53
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:141:19-54
+activity#org.cocos2d.tests.SchedulerTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:149:9-157:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:152:19-65
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:150:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:149:19-54
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:151:19-54
+activity#org.cocos2d.tests.TileMapTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:159:9-167:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:162:19-63
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:160:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:159:19-52
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:161:19-54
+activity#org.cocos2d.tests.MotionStreakTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:170:9-178:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:173:19-68
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:171:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:170:19-57
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:172:19-54
+activity#org.cocos2d.tests.ParallaxTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:180:9-188:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:183:19-64
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:181:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:180:19-53
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:182:19-54
+activity#org.cocos2d.tests.SceneTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:190:9-198:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:193:19-61
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:191:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:190:19-50
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:192:19-54
+activity#org.cocos2d.tests.SoundEngineTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:200:9-208:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:203:19-67
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:201:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:200:19-56
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:202:19-54
+activity#org.cocos2d.tests.SpritesTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:210:9-218:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:213:19-63
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:211:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:210:19-52
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:212:19-54
+activity#org.cocos2d.tests.TransitionsTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:220:9-228:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:223:19-67
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:221:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:220:19-56
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:222:19-54
+activity#org.cocos2d.tests.RotateWorldTest
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:230:9-238:20
+	android:label
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:233:19-67
+	android:debuggable
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:231:19-44
+	android:name
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:230:19-56
+	android:launchMode
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:232:19-54
+uses-sdk
+ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:242:1-48
+	android:targetSdkVersion
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\cocos2d-android\app\src\main\AndroidManifest.xml:242:11-36
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cocos2d-android\app\src\main\AndroidManifest.xml
